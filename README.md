@@ -9,15 +9,17 @@
 <body>
   <img src="" alt="">
     <h1 align="center">Hi 👋, I'm Hk-Syed Ibrahim Ahmed</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web and App developer</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vkreate.in%2Fservices%2Fweb-development&psig=AOvVaw0OQmhCpAUS7r4d-vvU2k4e&ust=1677322295092000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiRmMH-rf0CFQAAAAAdAAAAABAF" alt="">
 
 
--   📫 How to reach me **syedzada786alam@gmail.com**
+-   📫 How to reach me **syedibrahim5436@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hksyedibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hksyedibrahim" height="30" width="40" /></a>
+</p>
+<a href="https://www.linkedin.com/in/ibrahim-ahmed-649453279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hksyedibrahim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
